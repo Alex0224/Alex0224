@@ -1,8 +1,9 @@
 ### Hello! :smile: 
 
 ## I'm Alex Assis, programming student and technology lover. 👨‍💻
- - 👨‍🎓 Atualmente curso desenvolvimento full-stack no senai.
+ - 👨‍🎓 Formado em Técnico para Internet pelo SENAI.
  - 👨‍🎓 Estudante de Node.js!
+ - 👨‍🎓 Cursando Engenharia de Computação pelo ENIAC (1/10).
  - 🏃‍♂️ Gosto de praticar esportes.
  ##
 <div style="display: inline_block">
